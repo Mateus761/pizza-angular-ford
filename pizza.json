@@ -1,0 +1,169 @@
+{
+  "ingredients": [
+    {
+      "id": 1,
+      "nome": "Molho"
+    },
+    {
+      "id": 2,
+      "nome": "Queijo Mussarela"
+    },
+    {
+      "id": 3,
+      "nome": "Tomate"
+    },
+    {
+      "id": 4,
+      "nome": "Orégano"
+    },
+    {
+      "id": 5,
+      "nome": "Frango"
+    },
+    {
+      "id": 6,
+      "nome": "Calabresa"
+    },
+    {
+      "id": 7,
+      "nome": "Catupiry"
+    },
+    {
+      "id": 8,
+      "nome": "Cebola"
+    },
+    {
+      "id": 9,
+      "nome": "Atum"
+    },
+    {
+      "id": 10,
+      "nome": "Presunto"
+    },
+    {
+      "id": 11,
+      "nome": "Ovo"
+    },
+    {
+      "id": 12,
+      "nome": "Palmito"
+    },
+    {
+      "id": 13,
+      "nome": "Ervilha"
+    },
+    {
+      "id": 14,
+      "nome": "Brocolis"
+    },
+    {
+      "id": 15,
+      "nome": "Bacon"
+    },
+    {
+      "id": 16,
+      "nome": "Azeitona"
+    },
+    {
+      "id": 17,
+      "nome": "Camarão"
+    },
+    {
+      "id": 18,
+      "nome": "Pimentão"
+    },
+    {
+      "id": 19,
+      "nome": "Aliche"
+    },
+    {
+      "id": 20,
+      "nome": "Queijo Cheddar"
+    },
+    {
+      "id": 21,
+      "nome": "Queijo Provolone"
+    },
+    {
+      "id": 22,
+      "nome": "Requeijão Cremoso"
+    },
+    {
+      "id": 23,
+      "nome": "Cream Cheese"
+    },
+    {
+      "id": 24,
+      "nome": "Carne Moida"
+    },
+    {
+      "id": 25,
+      "nome": "Doce de leite"
+    },
+    {
+      "id": 26,
+      "nome": "Chocolate"
+    },
+    {
+      "id": 27,
+      "nome": "Chocolate Branco"
+    },
+    {
+      "id": 28,
+      "nome": "Leite ninho"
+    },
+    {
+      "id": 29,
+      "nome": "Chocolate Amargo"
+    },
+    {
+      "id": 30,
+      "nome": "Granulado"
+    },
+    {
+      "id": 31,
+      "nome": "Banana"
+    },
+    {
+      "id": 32,
+      "nome": "Morango"
+    },
+    {
+      "id": 33,
+      "nome": "Danoninho"
+    }
+  ],
+  "pizzas": [
+    {
+      "id": 1,
+      "nome": "Baiana",
+      "ingredientes": [
+        "Queijo",
+        "Calabresa",
+        "Pimenta",
+        "Ovo"
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Portuguesa",
+      "ingredientes": [
+        "Queijo",
+        "Presunto",
+        "Palmito",
+        "Ovo",
+        "Ervilha"
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "4 Queijos",
+      "ingredientes": [
+        "Queijo Mussarela",
+        "Queijo Gorgonzola",
+        "Queijo Parmesão",
+        "Queijo Provolone"
+      ]
+    }
+  ]
+}
